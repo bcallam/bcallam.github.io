@@ -1,2 +1,2 @@
-# public
+# bcallam.github.io
 blog

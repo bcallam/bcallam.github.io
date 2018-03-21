@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Brian Callam</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Brian Callam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Remote Setting to Produce Seed Oysters in Louisiana and the Gulf Coastal Region</title>
+      <link>/publication/sos-manual/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/sos-manual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic and environmental influence on triploid Crassostrea virginica grown in Chesapeake Bay: Growth</title>
+      <link>/publication/3n-growth/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/3n-growth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genotype-Environment Interaction in Selectively Bred Diploid and Triploid Crassostrea Virginica Lines</title>
+      <link>/publication/gxe/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/gxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variation in larval traits among pair-mated tetraploid eastern oyster, Crassostrea virginica, families</title>
+      <link>/publication/4n-families/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/4n-families/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
