@@ -13,14 +13,13 @@
     
     
     <item>
-      <title>Hello world!</title>
+      <title>Greetings</title>
       <link>/post/hello-world/</link>
       <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/hello-world/</guid>
-      <description> Greetings I’ve decided to create a site where I can post some of my work, a little about myself, and any thoughts or ideas I have or come across that I think are worth sharing.
-I hope you find my postings interesting and, if not, at least it will provide a cathartic experience for me.
- </description>
+      <description>I’ve decided to create a site where I can post some of my work, a little about myself, and any thoughts or ideas I have or come across that I think are worth sharing.
+I hope you find my postings interesting and, if not, at least it will provide a cathartic experience for me.</description>
     </item>
     
   </channel>
